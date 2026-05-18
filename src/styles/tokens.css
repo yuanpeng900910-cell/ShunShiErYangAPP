@@ -1,0 +1,42 @@
+:root {
+  --bg-warm: #f6efe3;
+  --bg-green: #dfeadf;
+  --bg-jade: #d8eee8;
+  --glass-bg: rgba(255, 255, 255, 0.42);
+  --glass-border: rgba(255, 255, 255, 0.64);
+  --text-main: #27342c;
+  --text-muted: rgba(39, 52, 44, 0.62);
+  --green-main: #6e9e74;
+  --green-deep: #456b4e;
+  --jade: #8fc8bd;
+  --gold-soft: #d9bd75;
+  --apricot: #efc49f;
+  --rouge: #b56b62;
+  --radius-xl: 48px;
+  --radius-lg: 36px;
+  --shadow-soft: 0 28px 80px rgba(84, 103, 80, 0.16);
+  --shadow-lift: 0 34px 100px rgba(77, 102, 82, 0.22);
+  --blur-glass: 28px;
+  color: var(--text-main);
+  font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "SF Pro Display", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+  background: var(--bg-warm);
+  font-synthesis: none;
+  text-rendering: geometricPrecision;
+  -webkit-font-smoothing: antialiased;
+}
+
+* { box-sizing: border-box; }
+
+html,
+body,
+#root { min-height: 100%; }
+
+body {
+  margin: 0;
+  overflow: hidden;
+}
+
+button {
+  border: 0;
+  font: inherit;
+}

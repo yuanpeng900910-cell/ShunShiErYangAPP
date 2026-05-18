@@ -1,0 +1,83 @@
+{
+  "brand": {
+    "parent": "京颐养方",
+    "name": "顺时而养",
+    "subtitle": "东方疗愈 Companion OS"
+  },
+  "today": {
+    "time": "10:37",
+    "date": "2026年3月20日 · 星期五",
+    "lunarDate": "农历二月初二",
+    "solarTerm": "春分",
+    "weather": "阴天 18°C · 湿度45%",
+    "wellnessLine": "春分至，阴阳和，宜舒展情绪，温养脾胃。"
+  },
+  "music": {
+    "title": "五音疗愈电台",
+    "recommendation": "角音",
+    "purpose": "疏肝舒郁",
+    "duration": "18 min",
+    "mood": "轻柔 · 木气生发"
+  },
+  "body": {
+    "score": 82,
+    "status": "气血平衡良好",
+    "organs": [
+      {
+        "name": "肝",
+        "value": 78
+      },
+      {
+        "name": "脾",
+        "value": 86
+      },
+      {
+        "name": "肺",
+        "value": 72
+      },
+      {
+        "name": "肾",
+        "value": 80
+      },
+      {
+        "name": "心",
+        "value": 84
+      }
+    ]
+  },
+  "plant": {
+    "title": "节气福田",
+    "name": "桃花",
+    "nutrients": "125/200",
+    "hint": "桃花已开，再获得75点养分即可结果"
+  },
+  "actions": [
+    {
+      "label": "今日宜动",
+      "value": "舒展肩颈",
+      "illustration": "exercise"
+    },
+    {
+      "label": "今日宜食",
+      "value": "山药羊肉汤",
+      "illustration": "food"
+    },
+    {
+      "label": "今日宜听",
+      "value": "角音",
+      "illustration": "tone"
+    },
+    {
+      "label": "今日提醒",
+      "value": "少久坐，宜慢行",
+      "illustration": "reminder"
+    }
+  ],
+  "nav": [
+    "今日",
+    "五音",
+    "体质",
+    "好物",
+    "我的"
+  ]
+}
